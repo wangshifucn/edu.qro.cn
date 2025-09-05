@@ -1,0 +1,37 @@
+﻿/* 大学信息免费查询页广告投放样式 */
+/* A1广告 */
+.a1ad{
+    width: 1190px;
+    margin: 0px auto;
+    clear: both;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.a1ad img{
+    width: 590px;
+    display: block;
+    height: 80px;
+}
+.a1ad a{
+    display: block;
+    float: left;
+}
+.a1ad a:nth-child(odd){
+    margin-right: 10px;
+}
+
+/* A2广告 */
+.a2ad{
+    width: 1190px;
+    margin: 10px auto;
+    clear: both;
+    overflow: hidden;
+}
+.a2ad img{
+    width: 1190px;
+    display: block;
+    height: 90px;
+}
+.a2ad a{
+    display: block;
+}
